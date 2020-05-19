@@ -1,7 +1,7 @@
 package p234
 
 import (
-	"github.com/alastairruhm/leetcode-go/datastructure"
+	"github.com/x1nchen/leetcode-go/datastructure"
 )
 
 // ListNode Definition for singly-linked list.

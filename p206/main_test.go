@@ -3,7 +3,7 @@ package p206
 import (
 	"testing"
 
-	"github.com/alastairruhm/leetcode-go/datastructure"
+	"github.com/x1nchen/leetcode-go/datastructure"
 
 	"github.com/stretchr/testify/assert"
 )

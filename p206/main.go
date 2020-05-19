@@ -1,7 +1,7 @@
 package p206
 
 import (
-	ds "github.com/alastairruhm/leetcode-go/datastructure"
+	ds "github.com/x1nchen/leetcode-go/datastructure"
 )
 
 // ListNode ...
