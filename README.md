@@ -1,4 +1,4 @@
-![](https://github.com/x1nchen/leetcode-go/workflows/.github/workflows/main.yml/badge.svg)
+![](https://github.com/x1nchen/leetcode-go/workflows/test/badge.svg)
 # leetcode
 
 leetcode
