@@ -1,4 +1,5 @@
-![](https://github.com/x1nchen/leetcode-go/workflows/test/badge.svg)
+[[https://github.com/x1nchen/leetcode-go/workflows/test/badge.svg][test]]
+
 # leetcode
 
 leetcode
@@ -6,3 +7,5 @@ leetcode
 ## refs
 
 [LeetCode By Go - 专题 - 简书](http://www.jianshu.com/c/8e1c238fc4cb)
+
+
