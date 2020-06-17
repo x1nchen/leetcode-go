@@ -1,4 +1,4 @@
-package p090_subset_2
+package p090
 
 func subsetsWithDup(nums []int) [][]int {
 	return nil
